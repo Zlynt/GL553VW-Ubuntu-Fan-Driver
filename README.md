@@ -25,3 +25,7 @@ Where the SPEED_OF_THE_FAN could be an integer from 0 to 100:
 |100|Set the fan to the maximum speed|
 
 For example, the command `sudo ./fan 0` sets the fan speed to automatic.
+
+## How to compile
+
+Simply run `make all`
